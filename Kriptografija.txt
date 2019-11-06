@@ -1,0 +1,11 @@
+﻿Kriptografija je jednom rečenicom “način šifrovanja poruke u skriven i nepoznat oblik”. Sama reč kriptografija se sastoji od dve grčke reči: kripto (skriven/o) i graphene (pisanje/pismo). Međutim, iako je kriptografija grčka reč, same početke korišćenja kriptografskog pisma možemo pronaći u Egipatskim i Rimljanskim civilizacijama. Jedan najpoznatijih i najstarijih vrsta kriptografije su hijeroglifi, korišćeni pre četiri milenijuma, čiju su poruku mogli da protumače samo kraljevski pisari. U Evropskim zemljama se koristila mono-alfabetska supstitucija. Jedan od najranijih primera je takozvana Cezarova sifra u kojoj se polja alfabetskih slova pomeraju za određen broj.
+
+Dva poznati primeri kriptografije su: 
+* Steganografija: za razliku od obične kriptografije u kojoj neku poruku transformišemo i šifrujemo u nepoznat oblik koji druga osoba može da vidi, u steganografiji druga osoba i ne zna da poruka postoji. Jedan od primera moderne steganografije je npr. nevidljivi vodeni žig.
+* Enigma: ova vrsta kriptografije se koristila početkom 20-og veka, za vreme prvog i drugog svetskog rata. Dešifrovanje ovog vrsta kriptografije je donelo velike pobede u borbi protiv nacista. Alana Turinga 
+
+Druge vrste kriptografije: Scytale (koju su koristili Spartanci u 7 veku pre nove ere), Pigpen (geometrijska prosta šifra supstitucije, koju su koristili Masoni), Vigenere (napredna Cezarova šifra, korišćena 1967 godine u Italiji).
+
+Zanimljivost: Jedan od najranijih primera korišćenja steganografije je Herodotus predstavio u njegovim Istorijama. U knjizi se opisuje kako je Histaeus poslao poruku svom vazalu, Aristagorasu, uz pomoć svog roba tako što mu je obrijao glavu, urezao poruku na koži i poslao Aristagorasu roba kada mu je kosa dovoljno porasla.
+
+Na kraju, postoje i kriptografije modernog doba, kao što su DES (Data Encryption Standard, vrsta kriptografije korišćena krajem 20-og veka) i AES (Advanced Encryption Standard, moderna vrsta kriptografije) koje se danas uveliko koriste sa ciljem bezbednosti važnih informacija.

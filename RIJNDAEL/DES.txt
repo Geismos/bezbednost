@@ -1,0 +1,50 @@
+﻿1976-te godine, kompanija IBM je kreirala prvi kompjuterski standard za enkripciju.
+
+
+
+
+2001
+
+
+Diferencijalna i linearna kriptoanaliza (DC & LC): Diferencijalnu kriptoanalizu su izumeli Adi Šamir i Eli Biham 1980-te godine. 1993-će godine, Micuri Macui. Za DC je navodno potrebno 2 na 49 kombinacija teksta za testiranje. Za LC je predviđeno da postoji 2 na 43.
+
+Dejvijev Napad (DA): Specifično dizajniran za napad na DES algoritme, za razliku od linearne i diferencijalne koji se ne odnose samo na DES strukturu. Kreirao ga je Donald Dejvi 1980-te godine.
+
+Brute Force Attack: Predstavlja najprostiji, najlakši i, do sada, najpraktičniji pešadijski način dešifrovanja poruke svakog sistema. Koristi sve moguće kombinacije i zavisi od broja bita ključa: ključevi sa malim brojem bita su manje otporni zbog broja mogućih kombinacija. Sa pojavom sve jačih, bržih i moćnijih kompjutera, Brute Force Attack dobija na snazi, bio je glavni razlog prelaska sa DES na AES / Rijndael.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you assume:
+ 
+
+Every person on the planet owns 10 computers.
+There are 7 billion people on the planet.
+Each of these computers can test 1 billion key combinations per second.
+On average, you can crack the key after testing 50% of the possibilities.
+ 
+
+Then the earth's population can crack one encryption key in 77,000,000,000,000,000,000,000,000 years!
+
+
+
+svaka osoba ima 10 high-tech kompjutera koji rade u isto vreme; 
+svaki kompjuter može da testira 1 milijardu kombinacija ključa po sekundi;
+u proseku može da se otkrije ključ nakon testiranja 50% ukupnog broja mogućnosti.
+..then the earth's population can crack one encryption key in..
+3400000000000000000000000000000000000000
+77000000000000000000000000 years!“
+
+17.11
+

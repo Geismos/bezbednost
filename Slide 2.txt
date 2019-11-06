@@ -1,0 +1,132 @@
+(SIMETRICNI KRIPTOSISTEMI)
+
+[Kriptografija]
+
+Deli se na tri dela..
+
+--Prema vrsti operacije koja se koristi za sifrovanje--
+Supstitucija (zamena)
+Transpozicija (permutacija)
+
+--Prema broju upotrebljenih kljuceva--
+Simetrican (jedan tajni kljuc)
+Asimetrican (dva kljuca, jedan javni jedan tajni)
+
+--Prema nacinu obrade otvorenog teksta--
+Blok sifra
+Protocna sifra
+
+
+(Princip simetricnog sifrovanja)
+Neophodni su..
+- Otvoreni tekst
+- Algoritam sifrovanja
+- Tajni kljuc
+- Sifrat
+- Algoritam desifrovanja
+
+(Kriptoanaliza)
+Proces otkrivanja otvorenog teksta ili kljuca
+
+Vrste napada:
+- samo sifrat
+- poznat otvoren tekst
+- odabran otvoreni tekst
+- odabrani sifrat
+- odabrani tekst
+
+
+
+
+
+[Rijndael / AES]
+
+Advanced Encryption Standard
+
+
+
+[Idle]
+
+[Farm]
+Apple
+Cherry
+Lemon
+MelonWater
+Onion
+Peach
+PepperGreen
+PepperRed
+Potato
+PotatoRed
+Strawberry
+Tomato
+
+[Fancy Plants]
+Avocado
+DragonFruit
+Eggplant
+MelonCantaloupe
+MelonHoneydew
+Olive
+Pickles
+Pineapple
+Turnip
+
+[Animal Products]
+Bacon
+Boar
+Cheese
+Chicken
+Chicken Leg
+Eggs
+Pepperoni
+Ribs
+Sausages
+Steak
+
+[Sweet Home]
+Honey
+HoneyComb
+Jam
+Marmalade
+PieApple
+PieLemon
+PiePumpkin
+
+[Boozery]
+Beer
+PickledEggs
+Moonshine
+Saki
+Whiskey
+Wine
+
+[Bakery]
+Bread
+Brownie
+Cookie
+Pretzel
+Roll
+Tart
+Waffles
+
+[Fishery]
+AppleWorm
+Bug
+Fish
+FishFillet
+FishSteak
+Grub
+Grubs
+Sardines
+Sashimi
+Shrimp
+Sushi
+
+[???]
+Stein
+
+- Restaurant
+
+
+

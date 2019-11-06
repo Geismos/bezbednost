@@ -1,0 +1,58 @@
+Plaintext: visoka skola ict
+Key: ponovooperaperic
+
+_________
+
+Setting Things Up
+
+v	k	k	
+i	a	o	i
+s		l	c
+o	s	a	t
+
+
+p	v	e	e
+o	o	r	r
+n	o	a	i
+o	p	p	c
+
+_________
+
+Convert to HEX using ASCII
+
+(visoka skola ict)
+
+76	6B	6B	20
+69	61	6F	69
+73	20	6C	63
+6F	73	61	74
+
+
+_________
+
+Sub Bytes (visoka skola ict)
+
+38	7F	7F	B7
+F9	EF	A8	F9
+8F	B7	50	FB
+A8	8F	EF	92
+
+
+_________
+
+Shift Row (visoka skola ict)
+
+38	7F	7F	B7
+EF	A8	F9	F9
+50	FB	8F	B7
+92	A8	8F	EF
+
+_________
+
+Mix Columns
+
+
+3.4 x 10 na 38 .. ili 3400000000000000000000000000000000000000
+
+
+https://www.tutorialspoint.com/cryptography/origin_of_cryptography.htm

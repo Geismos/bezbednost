@@ -1,0 +1,98 @@
+Umetnost ratovanja: da se ne uzdajemo u verovatnocu da neprijatelj nece doci vec u vlastitu spremnost da docekamo neprijatelja.
+
+Cime se bavimo?
+Mere za:
+- odvracanje;
+- sprecavanje;
+- otkrivanje;
+- oporavak narusavanja bezbednosti.
+Ovo se odnosi na prenosenje informacija.
+
+(Bezbednost racunara)
+Zastita koja se pruza automatizovanom inf. sistemu sa ciljem da se postigne:
+- ocuvanje integriteta;
+- dostupnost;
+- poverljivost resursa inf. sistema sto obuhvata..
+
+hardware, software, firmware, informacije/podatke i telekomunikacije
+
+
+
+(Bezbednosni ciljevi)
+
+CIA - Confidentiality Integrity Availability
+
+- Poverljivost: poverljivost podataka, privatnost, otkrivanje informacija je gubitak;
+- Integritet: integritet podataka i sistema | gubitak: neovlasceno menjanje i unistavanje inform.
+- Raspolozivost: smanjenje (usled poremecenog pristupa ili upotrebe informacionog sistema)
+
+Takodje su znacanjni..
+
+- Autenticnost (dokazuje originalnost, proverava identitet)
+- Uracunljivost (neporicanje, odvracanje, izolovanje gresaka, otkrivanje i sprecavanje upada, protivakcije oporavka i pravnog postupka)
+
+(OSI Arhitektura bezbednosti)
+
+Pretnja: potencijal za narusavanje bezbednosti
+Napad: napad na bezbednost sistema koja potice od razumne pretnje
+
+-Arhitektura bezbednosti-
+
+Bezbednosni napadi: svaka aktivnost koja ugrozava bezbednost informacija
+Bezbednosni mehanizmi: proces za otkrivanje, sprecavanje ili oporavak od bezbednosnog napada
+Bezbednosni servisi: servis koji unapredjuje bezbednost sistema
+
+[Napadi]
+
+Oni se dele na..
+
+(Pasivne napade)
+- Prisluskivanje ili nadgledanje prenosa
+- Otkrivanje sadrzaja poruke
+- Analiza saobracaja
+
+(Aktivni napadi)
+- Maskiranje
+- Ponavljanje
+- Izmena poruka
+- Uskracivanje usluga
+
+[Mehanizmi]
+
+Postoje:
+
+(Konkretni)
+- Sifrovanje
+- Digitalni potpis
+- Kontrola pristupa
+- Integritet podataka
+- Razmena autentifikacije
+- Popunjavanje saobracaja
+- Kontrola rutiranja
+- Overavanje
+
+(Prodorni)
+- Pouzdana funkcionalnost
+- Bezbednosna oznaka
+- Otkrivanje dogadjaja
+- Pracenje bezbednosnih dogadjaja
+- Bezbednosno obnavljanje
+
+[STANDARDI]
+
+NIST (National Institue of Standards) - Savezna agencija SAD
+ISOC (Internet Society) - Medjunarodna profesionalna organizacija
+
+[Servisi]
+
+Servis koji pruza sistem da bi svojim resursima obezbedio konkretnu vrstu zastite.
+Primenjuju se bezbednosne polise pomocu bezbednosnih mehanizama
+
+Postoje..
+
+- Autentifikacija: ravnopravnih entiteta i izvora podataka;
+- Kontrola pristupa;
+- Poverljivost podataka;
+- Integritet podataka;
+- Neporicanje.
+Raspolozivost?

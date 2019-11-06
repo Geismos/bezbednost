@@ -1,0 +1,17 @@
+[04. 11]
+- Istorija Kriptografije
+- Vrste napada
+- Koraci RIJNDAEL-a
+- ASCII HEX
+
+[05. 11]
+
+[06. 11]
+
+[07. 11]
+
+[08. 11]
+
+[09. 11]
+
+[10. 11]

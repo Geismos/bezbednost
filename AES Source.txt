@@ -1,0 +1,180 @@
+[Kriptografija & DES]
+
+[1] https://www.tutorialspoint.com/cryptography/origin_of_cryptography.htm
+
+[2] https://interestingengineering.com/11-cryptographic-methods-that-marked-history-from-the-caesar-cipher-to-enigma-code-and-beyond
+
+[3] https://www.quora.com/The-DES-encryption-was-broken-in-1999-Why-and-how-did-it-happen
+________________________
+
+[Nedostaci DES-a]
+
+[4] DES Vulnerabilities | https://paginas.fe.up.pt/~ei10109/ca/des-vulnerabilities.html
+
+[5] How secure is AES against brute force attacks? | https://www.eetimes.com/document.asp?doc_id=1279619
+
+________________________
+
+[Uvod u AES]
+
+[6] What is AES encryption and how does it work? | https://www.comparitech.com/blog/information-security/what-is-aes-encryption/
+
+[7] Advanced Encryption Standard (AES) | https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard
+
+[8] Advanced Encryption Standard - Tutorials Point | https://www.tutorialspoint.com/cryptography/advanced_encryption_standard.htm
+
+________________________
+
+[Rijndael Step-By-Step]
+
+[9] AES Rijndael Cipher explained as a Flash animation - Enrique Zabala | https://www.youtube.com/watch?v=gP4PqVGudtg
+
+[10] ASCII CHART | https://www.commfront.com/pages/ascii-chart
+
+[11] Substitute Box (S-BOX) | https://en.wikipedia.org/wiki/Rijndael_S-box
+
+[12] AES Shift Rows | https://www.researchgate.net/figure/AES-ShiftRows-function-taken-from-8_fig4_265112905
+
+[13] Understanding AES Mix-Columns Transformation Calculation - Kit Choy Xintong, University of Wollongong | http://www.angelfire.com/biz7/atleast/mix_columns.pdf
+
+[14] AES Key Schedule | https://en.wikipedia.org/wiki/AES_key_schedule
+
+________________________
+
+[Koliko je bezbedan AES?]
+
+
+[15] https://www.quora.com/How-long-does-it-take-to-break-40-bit-56-bit-128-bit-128-bit-192-bit-and-256-bit-through-a-brute-force-attack
+
+How secure is AES against brute force attacks? | https://www.eetimes.com/document.asp?doc_id=1279619
+
+________________________
+
+--POGLAVLJA--
+
+[Kriptografija & DES]
+	- Istorija kriptografije
+	- DES
+[Nedostaci DES-a]
+	- Vrste napada
+	- Super kompjuteri
+	- Brute Force Attack
+[Uvod u AES]
+	- NIST 
+	- Rijndael
+
+[Rijndael step-by-step]
+	- Koraci Rijndael-a
+	- ASCII HEX konverzija
+	- Sub Bytes
+	- Shift Rows
+	- Mix Columns
+	- Key Schedule & RCON
+	- Add Round Key
+[Koliko je bezbedan AES?]
+	- 56 vs 128
+	- 256 bit
+	- 100 billion encryptions
+
+
+1.02 x 10 000 000 000 000 000 000
+
+331 00000000000000000000000000000000000000000000000000000000 godina
+
+
+1101 = 1 + 4 + 8 = 13
+
+A = 10
+B = 11
+C = 12
+D = 13
+E = 14
+F = 15
+
+
+
+1011 0011
+1101 1010 (XOR)
+
+0110 1001
+0101 1101 (XOR)
+
+0011 0100
+0011 0000 (XOR)
+
+0000 0100 = 0 4
+
+
+
+
+
+
+
+
+
+
+128 = [3.4 x 10(38)] AES
+
+SuperComp: 10.51 x 10(15) Flops
+1000 Flops per combination check
+10.51 x 10(15) / 1000 = [10.51 x 10(12)] (Per second)
+
+
+
+10.51 x 1000 = 10 510 000 000 000
+
+12 - 3 = 9
+
+
+Broj sekundi u godini: 365 x 24 x 60 x 60 = 31536000
+
+AES = 3.4 x 10(38)
+SuperComp = 10.51 x 10(12)
+Broj sekundi = 31536000
+
+AES / SuperComp / BrojSek
+
+(0.323 x 10(26) ) / 31536000
+
+
+
+56 bit = 7.2 x 10(16)
+
+7.2 / 10.51 = 0.685
+10(16) / 10(12) = 10(4) = 68500
+
+
+= 0.00217
+
+
+
+
+
+
+66
+FA
+
+0110 0110
+1111 1010
+
+1001 1100 (12 / C)
+9C
+
+
+
+
+
+1	5	9
+	
+2	6	10
+
+3	7	
+
+4	8
+
+
+
+
+
+Kriptografija je jednom recenicom “nacin šifrovanja poruke u skriven i nepoznat oblik”. Sama rec kriptografija se sastoji od dve grcke reci: kripto (skriven/o) i graphene (pisanje/pismo). Medutim, iako je kriptografija grcka rec, same pocetke korišcenja kriptografskog pisma možemo pronaci u Egipatskim i Rimljanskim civilizacijama. Jedna najpoznatija i najstarija vrsta kriptografije su hijeroglifi, korišceni pre cetiri milenijuma, koju su poruku mogli da protumace samo kraljevski pisari. Hijerogla
+
